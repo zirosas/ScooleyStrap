@@ -1,0 +1,209 @@
+/*
+Theme Name: Scooley
+Theme URI: http://www.blugraphic.com/2012/12/24/primary-school-website-theme-psd/
+Description: Scooley with Bootstrap.
+Author: Jiro Sasamoto
+Author URI: http://zirosas.wordpress.com/
+Version: 1.0
+Tags: bootstrap
+*/
+
+.logo {
+	width: 160px;
+	height: 80px;
+	background:transparent url(img/logp.png) no-repeat top center;
+	text-indent:-9999px;
+}
+
+.topnav {
+	padding-top: 30px;
+}
+
+.topnav a {
+	color: #FFF;
+}
+
+.masthead {
+	height: 374px;
+	background:#75C2D6 url(img/header-bg.jpg) no-repeat left center;
+}
+
+.slider {
+	padding-top: 10px;
+	height: 250px;
+}
+
+
+/* Custom container */
+.container-narrow {
+	margin: 0 auto;
+	padding-top: 20px;
+	max-width: 950px;
+}
+
+hr.style-double {
+	padding: 0 0 20px 0;
+	border: none;
+	border-top: medium double #e2f3f7;
+	color: #e2f3f7;
+	text-align: center;
+}
+
+/* Sidebar */
+
+.news {
+	padding: 10px 0;
+	height: 40px
+}
+
+.newstitle {
+	font-size: 24px;
+	font-weight: bold;
+	padding: 15px;
+}
+
+.newstitle a {
+	text-decoration: none;
+}
+
+.newsdate {
+	height: 50px;
+	width: 60px;
+	background: url(img/book.jpg) no-repeat left bottom;
+	float: left;
+}
+
+.newshead {
+	width: 360px;
+	padding-right: 40px;
+	float: right;
+	text-align: left;
+}
+
+.month {
+	padding-top: 4px;
+	width: 45px;
+}
+
+.year {
+	width: 45px;
+}
+
+.darkblue {
+	color: #5c8091;
+}
+
+.newsbottom {
+	height: 30px;
+}
+
+.label a {
+	text-decoration: none;
+	color: #FFF;
+}
+
+.sidetitle {
+	color: #80A0AF;
+	font-size: 20px;
+	font-weight: bold;
+	padding-left: 40px;
+}
+
+.category {
+	padding: 20px 0;
+}
+
+.category ul li {
+	list-style-type: none;
+	padding: 20px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.category ul li a {
+	padding-left: 10px;
+	text-decoration: none;
+}
+
+#authorlist ul{
+	list-style: none;
+	margin: 0;
+	padding: 0 0 0 40px;
+}
+#authorlist li {
+	margin: 0 0 5px 0;
+	list-style: none;
+	height: 90px;
+	padding: 15px 0 15px 0;
+	border-bottom: 1px solid #ececec;
+}
+
+#authorlist img.photo {
+	width: 80px;
+	height: 80px;
+	float: left;
+	margin: 0 15px 0 0;
+	padding: 3px;
+	border: 1px solid #ececec;
+}
+
+#authorlist div.authname {
+	margin: 20px 0 0 10px;
+}
+
+
+
+.registerad {
+	/*padding: 20px;*/
+	background: url(img/gray-bg.jpg) no-repeat center top;
+	height: 105px;
+}
+
+.catch {
+	padding: 20px 20px 0 20px;
+	font-size: 24px;
+}
+
+.registerad p {
+	padding: 10px 20px;
+}
+
+.vmid {
+	padding-top: 25px;
+}
+
+.people {
+	padding: 5px 0 5px 5px;
+	height: 50px; 
+	float: left;
+}
+
+.honorhead {
+	padding: 5px 5px 0 5px;
+	height: 50px;
+	width: 145px;
+	float: right;
+}
+
+/* Footer */
+.footer {
+	height: 100px;
+	background: url(img/footer-bg.jpg) no-repeat left bottom;
+}
+
+.footer-left {
+	color: #CCC;
+	font-size: smaller;
+	float: left;
+}
+
+.footer-right {
+	float: right;
+}
+
+.footer-right ul li {
+	float: right;
+	list-style-type: none;
+	padding-left: 10px;
+}
+
